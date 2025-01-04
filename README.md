@@ -20,7 +20,8 @@ The chatbot consists of two main components:
 2. **Backend**: Flask server handling requests and generating responses using the Llama model.
 
 **Architecture Overview**  
-![image](https://github.com/user-attachments/assets/6bd5f004-9182-4565-8d6b-9f38e0443d69)
+![image](https://github.com/user-attachments/assets/443d1e70-6b44-45fc-867b-7f1a9df9b95d)
+
 
 
 ---
